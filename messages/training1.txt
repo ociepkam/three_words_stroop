@@ -1,14 +1,17 @@
-Twoim zadaniem bedzie rozpoznawanie koloru wyswietlanych napisow.
-Napis moze byc w kolorze zielonym, niebieskim, czerwonym albo brazowym.
+﻿Na ekranie beda sie wyswietlac trzy slowa, jedno pod drugim.
+Twoim zadaniem bedzie rozpoznawanie KOLORU wyswietlanych słów.
+Nie ma znaczenia tresc slow, nie musisz ich w ogole czytac.
+Po prostu skup sie na rozpoznawaniu, jaki kolor maja slowa.
+Moga byc w kolorze zielonym, niebieskim, czerwonym albo brazowym.
 
 Naciskaj:
 <--insert-->
 
 Jesli rozumiesz polecenie, przejdz do wykonywania zadania.
 Poloz palce lewej reki na klawiszach Z i X, a prawej - na N i M.
-Staraj się naciskac wlasciwy klawisz.
+Staraj się naciskac poprawny klawisz, odpowiadajacy biezacemu kolorowi.
 Po kazdej probie pojawi sie informacja o poprawnosci wykonania zadania.
 
-Podpowiedz u dolu ekranu bedzie przypominac Ci klawisze.
+Podpowiedz u dolu ekranu bedzie przypominac Ci klawisze przypisane kolorom.
 
 Nacisnij SPACJE, aby rozpoczac.

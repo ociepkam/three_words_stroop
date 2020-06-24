@@ -1,18 +1,18 @@
 ﻿Teraz zaczyna sie druga czesc treningu, ktora jest trudniejsza niz poprzedna.
 
-Tym razem beda sie wyswietlac napisy oznaczajace kolory (ZIELONY, CZERWONY itp.)
+Tym razem beda sie wyswietlac trzy słowa oznaczajace kolory (ZIELONY, CZERWONY itp.)
 
-Pamietaj: rozpoznawaj wylacznie KOLOR SLOW i zupelnie ignoruj tresc napisu.
+Tak jak poprzednio, rozpoznawaj wylacznie KOLOR SLOW a zupelnie ignoruj tresc slow.
 
 Naciskaj:
 <--insert-->
 
-Staraj sie nie czytac napisow, tylko identyfikowac ich KOLOR.
+Nie czytaj slow, tylko identyfikuj ich KOLOR (slowa moga w tym przeszkadzac).
 Rozpoznawaj wylacznie KOLORY!
 
 Jesli slowo "NIEBIESKI" bedzie wyswietlone w kolorze czerwonym,
 to musisz nacisnac klawisz odpowiadajacy za kolor czerwony (nie niebieski!).
-Staraj się naciskac wlasciwy klawisz.
+Staraj się naciskac poprawny klawisz przypisany prezentowanemu kolorowi.
 Po kazdej probie pojawi sie informacja o poprawnosci wykonania zadania.
 
 Staraj sie reagowac szybko i poprawnie!

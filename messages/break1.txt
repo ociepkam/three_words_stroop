@@ -1,3 +1,7 @@
-Przerwa 1
+﻿Przerwa 1
 
-Naciśnij klawisz aby kontunować.
+
+
+Odpocznij chwile przed druga czescia.
+
+Jesli uznasz, ze mozesz kontynuowac zadanie, to naciśnij klawisz.
