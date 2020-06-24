@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf8 -*
+import os
 import atexit
 import csv
 import numpy
