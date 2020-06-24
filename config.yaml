@@ -1,0 +1,43 @@
+ophthalmic_procedure: False
+
+Training1_trials_con_con_con: 0
+Training1_trials_con_con_unr: 0
+Training1_trials_con_unr_unr: 0
+Training1_trials_inc_inc_inc: 0
+Training1_trials_inc_inc_unr: 0
+Training1_trials_inc_unr_unr: 0
+Training1_trials_unr_unr_unr: 5
+Training1_trials_neu_neu_neu: 5
+
+Training2_trials_con_con_con: 5
+Training2_trials_con_con_unr: 5
+Training2_trials_con_unr_unr: 5
+Training2_trials_inc_inc_inc: 5
+Training2_trials_inc_inc_unr: 5
+Training2_trials_inc_unr_unr: 5
+Training2_trials_unr_unr_unr: 0
+Training2_trials_neu_neu_neu: 0
+
+Training_Resp_time: 4
+Training_Wait_time: 1
+
+Number_of_blocks: 2
+Experiment_trials_con_con_con: 0
+Experiment_trials_con_con_unr: 0
+Experiment_trials_con_unr_unr: 0
+Experiment_trials_inc_inc_inc: 0
+Experiment_trials_inc_inc_unr: 0
+Experiment_trials_inc_unr_unr: 0
+Experiment_trials_unr_unr_unr: 0
+Experiment_trials_neu_neu_neu: 0
+
+Experiment_Resp_time: 3
+Experiment_Wait_time: 1
+
+Jitter: 1
+
+Fix_time: 1
+Feedb: True
+Feedb_time: 1
+
+words_dist: 40

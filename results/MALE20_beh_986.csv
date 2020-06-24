@@ -1,0 +1,3 @@
+EXP,TRIAL_TYPE,TEXT,COLOR,WAIT,RESPTIME,RT,TRUE_KEY,ANSWER,CORR
+training,trial_unr_unr_unr,"['WYSOKA', 'WYSOKA', 'WYSOKA']",red,1,4,2.699436599970795,m,m,True
+training,trial_unr_unr_unr,"['UKRYTA', 'UKRYTA', 'UKRYTA']",green,1,4,1.482361700036563,x,x,True
